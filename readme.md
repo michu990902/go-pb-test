@@ -38,3 +38,9 @@ message MyMessage {
     reserved 2, 15, 9 to 11;
     fields:
     reserved "name1", "name2";
+
+
+
+---------------------------------
+https://developers.google.com/protocol-buffers/docs/proto3
+https://www.udemy.com/course/protocol-buffers/learn/lecture/9924762
